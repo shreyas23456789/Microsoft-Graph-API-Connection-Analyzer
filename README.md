@@ -37,7 +37,7 @@ Before using the script, ensure you have the following:
 
 1. Run the script:
    ```sh
-   python script_name.py
+   Microsoft Azure Connection tester.py
    ```
 2. Enter your Azure AD credentials when prompted:
    - **Tenant ID**
